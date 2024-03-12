@@ -1,5 +1,7 @@
 # Traffic Violations Registration Application
 
+![Splash Image](images/splash.png)
+
 The Traffic Violations Registration Application is a mobile application designed to streamline the process of reporting and managing traffic violations. This user-friendly application allows users to report incidents, record details, and maintain a comprehensive record of traffic offenses.
 
 ## Key Features
